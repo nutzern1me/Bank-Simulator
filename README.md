@@ -1,4 +1,6 @@
-programme d'un simulateur de gestion de comptes bancaires
+programme d'un simulateur de gestion de comptes bancaires 
+
+
 Objectifs du projet:
 1. La gestion de comptes bancaires (création, consultation du solde, historique des opérations, suppression).
 2. La réalisation d'opérations bancaires : dépôts, retraits, transferts entre comptes.
