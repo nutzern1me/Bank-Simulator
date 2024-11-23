@@ -1,7 +1,7 @@
-programme d'un simulateur de gestion de comptes bancaires 
+bank account management simulator program
 
+Project objectives:
 
-Objectifs du projet:
-1. La gestion de comptes bancaires (création, consultation du solde, historique des opérations, suppression).
-2. La réalisation d'opérations bancaires : dépôts, retraits, transferts entre comptes.
-3. La sauvegarde des comptes et de leur historique dans un fichier, afin de garantir la persistance des données entre deux exécutions du programme.
+1. Bank account management (creation, balance consultation, transaction history, deletion).
+2. Performing banking operations: deposits, withdrawals, transfers between accounts.
+3. Saving accounts and their history in a file, in order to guarantee data persistence between two program executions.
